@@ -1,0 +1,194 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+{% block title %}MiMission{% endblock title %}
+
+{% block main_body %}
+    <!-- Slider Start -->
+    <section id="slider">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <div class="block">
+              <p class="animated fadeInUp"><!-- MiMission is a platform where you can join different missions and <br/> race with other competitors to reach your goals<br/>it also allows you to schedule your time and work to acheive the most,<br/> inside a motivating environment<br/><br/> --><a href="/signup">NOW LET'S DO IT</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  <section id="feature">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 col-sm-12">
+            <img src="{% static 'img/wrapper-img.gif' %}" alt="Img">
+        </div><!-- .col-md-5 close -->
+        <div class="col-md-6 col-md-offset-1">
+          <h2>Humans Tend to Be Competitive</h2>
+          <p>It’s said that when chased by a bear, you don’t need to outrun the bear; you just need to outrun your friend</br> Similarly, to win a championship, a promotion, or a date, you need only to beat the immediate competition, whether a team, a colleague, or a fellow suitor</br>
+          Win or lose, Competition always makes you stronger</br>
+          Join MiMission community and together we will be stronger,more productive and more achieving.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+        
+    <!-- Service Start -->
+    <section id="service">
+      <div class="container">
+        <div class="row">
+          <div class="section-title">
+            <h2>Our Missions</h2>
+            <p>There are four essential different types of our missions, You can join the mission you like and develop your self in various fields</p>
+          </div>
+        </div>
+        <div class="row ">
+          <div class="col-sm-6 col-md-3">
+            <div class="service-item">
+              <i class="icon ion-ios-bookmarks" style="color: #FEF760"></i>
+              <h4>Reading</h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3">
+            <div class="service-item">
+              <i class="ion-earth" style="color: #FDBC55"></i>
+              <h4>Languages</h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3">
+            <div class="service-item">
+              <i class="ion-planet" style="color: #38B3FC"></i>
+              <h4>Sciences</h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3">
+            <div class="service-item">
+              <i class="ion-android-walk" style="color: #9BE06C"></i>
+              <h4>Sports</h4>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Call to action Start -->
+    <section id="call-to-action">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="block">
+              <h2 style="opacity: 0;">We design delightful digital experiences.</h2>
+              <p style="opacity: 0;">Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design.</p>
+              <a class="btn btn-default btn-call-to-action" href="/signup" style="opacity: 0;">Tell Us Your Story</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Content Start -->
+    <section id="testimonial">
+      <div class="container">
+        <div class="row">
+          <div class="section-title text-center">
+            <h2>Fun Facts About Us</h2>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="block">
+              <ul class="counter-box clearfix">
+                <li>
+                  <div class="block">
+                    <i class="ion-ios-chatboxes-outline"></i>
+                    <h4 class="counter">20000</h4>
+                    <span>Cups Of Coffee</span>
+                  </div>
+                </li>
+                <li>
+                  <div class="block">
+                    <i class="ion-ios-glasses-outline"></i>
+                    <h4 class="counter">20000</h4>
+                    <span>Cups Of Coffee</span>
+                  </div>
+                </li>
+                <li>
+                  <div class="block">
+                    <i class="ion-ios-compose-outline"></i>
+                    <h4 class="counter">20000</h4>
+                    <span>Cups Of Coffee</span>
+                  </div>
+                </li>
+                <li>
+                  <div class="block">
+                    <i class="ion-ios-timer-outline"></i>
+                    <h4 class="counter">20000</h4>
+                    <span>Cups Of Coffee</span>
+                  </div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="testimonial-carousel">
+              <div id="testimonial-slider" class="owl-carousel">
+                <div>
+                    <img src="{% static 'img/cotation.png' %}" alt="IMG">
+                    <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
+                    <div class="user">
+                      <img src="{% static 'img/item-img1.jpg' %}" alt="Pepole">
+                      <p><span>Rose Ray</span> CEO</p>
+                    </div>
+                </div>
+                <div>
+                  <img src="{% static 'img/cotation.png' %}" alt="IMG">
+                    <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
+                    <div class="user">
+                      <img src="{% static 'img/item-img1.jpg' %}" alt="Pepole">
+                      <p><span>Rose Ray</span> CEO</p>
+                    </div>
+                </div>
+                <div>
+                  <img src="{% static 'img/cotation.png' %}" alt="IMG">
+                    <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
+                    <div class="user">
+                      <img src="{% static 'img/item-img1.jpg' %}" alt="Pepole">
+                      <p><span>Rose Ray</span> CEO</p>
+                    </div>
+                </div>
+                <div>
+                  <img src="{% static 'img/cotation.png' %}" alt="IMG">
+                    <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
+                    <div class="user">
+                      <img src="{% static 'img/item-img1.jpg' %}" alt="Pepole">
+                      <p><span>Rose Ray</span> CEO</p>
+                    </div>
+                </div>
+                <div>
+                  <img src="{% static 'img/cotation.png' %}" alt="IMG">
+                    <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
+                    <div class="user">
+                      <img src="{% static 'img/item-img1.jpg' %}" alt="Pepole">
+                      <p><span>Rose Ray</span> CEO</p>
+                    </div>
+                </div>
+                <div>
+                  <img src="{% static 'img/cotation.png' %}" alt="IMG">
+                    <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
+                    <div class="user">
+                      <img src="{% static 'img/item-img1.jpg' %}" alt="Pepole">
+                      <p><span>Rose Ray</span> CEO</p>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+{% endblock main_body %}

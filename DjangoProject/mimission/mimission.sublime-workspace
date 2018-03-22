@@ -1,0 +1,1055 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"SET_NULL"
+			],
+			[
+				"mis",
+				"mimission_app"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"se",
+				"sehirId"
+			],
+			[
+				"miss",
+				"mission"
+			],
+			[
+				"o",
+				"OR"
+			],
+			[
+				"C",
+				"CREATE"
+			],
+			[
+				"mi",
+				"mission"
+			],
+			[
+				"tim",
+				"TIMESTAMP"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"su",
+				"suggestor"
+			],
+			[
+				"vo",
+				"vote"
+			],
+			[
+				"de",
+				"DEFAULT"
+			],
+			[
+				"voc",
+				"vocabularyAmount_ck"
+			],
+			[
+				"sci",
+				"scientificPaperNo"
+			],
+			[
+				"s",
+				"scientificMissions"
+			],
+			[
+				"con",
+				"CONSTRAINT"
+			],
+			[
+				"Con",
+				"CONSTRAINT"
+			],
+			[
+				"sa",
+				"satir"
+			],
+			[
+				"str",
+				"strtok"
+			],
+			[
+				"gir",
+				"girisYolu"
+			],
+			[
+				"cik",
+				"cikisYolu"
+			],
+			[
+				"st",
+				"strdup"
+			],
+			[
+				"main",
+				"mainPid"
+			],
+			[
+				"ar",
+				"aramaId"
+			],
+			[
+				"ara",
+				"arama"
+			],
+			[
+				"is",
+				"isIlaniId"
+			],
+			[
+				"isl",
+				"isIlani"
+			],
+			[
+				"i",
+				"isAlani"
+			],
+			[
+				"k",
+				"kullaniciId"
+			],
+			[
+				"ku",
+				"kullanici"
+			],
+			[
+				"kul",
+				"kullaniciEtiket"
+			],
+			[
+				"eti",
+				"etiket"
+			],
+			[
+				"kulla",
+				"kullaniciEtiket"
+			],
+			[
+				"et",
+				"etiket"
+			],
+			[
+				"ba",
+				"bagliEtiket"
+			],
+			[
+				"so",
+				"soruEtiket"
+			],
+			[
+				"go",
+				"goruntulemeId"
+			],
+			[
+				"si",
+				"sirketId"
+			],
+			[
+				"sir",
+				"sirketGoruntu"
+			],
+			[
+				"fo",
+				"fotografId"
+			],
+			[
+				"mev",
+				"mevkiId"
+			],
+			[
+				"yaz",
+				"yazanKullanici"
+			],
+			[
+				"dil",
+				"dilId"
+			],
+			[
+				"kod",
+				"kodAlinti"
+			],
+			[
+				"ca",
+				"CASCADE"
+			],
+			[
+				"cev",
+				"cevapId"
+			],
+			[
+				"ce",
+				"cevap"
+			],
+			[
+				"Ch",
+				"char"
+			],
+			[
+				"n",
+				"NULL"
+			],
+			[
+				"text",
+				"TEXT"
+			],
+			[
+				"te",
+				"TEXT"
+			],
+			[
+				"get",
+				"getpid"
+			],
+			[
+				"pdi",
+				"pidCocuk"
+			],
+			[
+				"for",
+				"fork"
+			],
+			[
+				"pr",
+				"Proses"
+			],
+			[
+				"f",
+				"fw"
+			],
+			[
+				"Get",
+				"GetUzunluk"
+			],
+			[
+				"Ge",
+				"Getir"
+			],
+			[
+				"GE",
+				"GetListe"
+			],
+			[
+				"ge",
+				"GetListe"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"cla",
+				"class_label"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"col",
+				"colors"
+			],
+			[
+				"cas",
+				"class_label"
+			],
+			[
+				"clas",
+				"class_labels"
+			],
+			[
+				"lab",
+				"label_index"
+			],
+			[
+				"class",
+				"class_label"
+			],
+			[
+				"fr",
+				"fprintf\tfprintf …"
+			],
+			[
+				"out",
+				"output_file"
+			],
+			[
+				"Wiki",
+				"WikiTestAnalyzed"
+			],
+			[
+				"voca",
+				"vocabs"
+			],
+			[
+				"max",
+				"max_w"
+			],
+			[
+				"mal",
+				"malloc"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"MA",
+				"MAX_STRING"
+			],
+			[
+				"vec",
+				"vector_file"
+			],
+			[
+				"d",
+				"distance"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/mimission/settings/__init__.py",
+			"settings":
+			{
+				"buffer_size": 102,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/mimission/settings/base.py",
+			"settings":
+			{
+				"buffer_size": 3423,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/login/index.html",
+			"settings":
+			{
+				"buffer_size": 5456,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/mimission_app/views.py",
+			"settings":
+			{
+				"buffer_size": 848,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/mimission_app/admin.py",
+			"settings":
+			{
+				"buffer_size": 244,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/mimission_app/models.py",
+			"settings":
+			{
+				"buffer_size": 13476,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "f",
+			"file": "src/models.py",
+			"file_size": 0,
+			"file_write_time": 131573171956244125,
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/python3.5/site-packages/django/db/models/fields/related.py",
+			"settings":
+			{
+				"buffer_size": 71660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/mimission/urls.py",
+			"settings":
+			{
+				"buffer_size": 968,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/itasks/base.html",
+			"settings":
+			{
+				"buffer_size": 4130,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/itasks/Home/index.html",
+			"settings":
+			{
+				"buffer_size": 1685,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: fprintf …"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/alisafaya/Desktop/vtysproje/DjangoProject/mimission/src/templates/login-sign-in/index.html",
+		"/Users/alisafaya/Desktop/vtysproje/DjangoProject/mimission/src/mimission/settings/local.py",
+		"/Users/alisafaya/Desktop/vtysproje/DjangoProject/mimission/src/mimission/settings/production.py",
+		"/Users/alisafaya/Desktop/vtysproje/DjangoProject/mimission/src/mimission/settings/base.py",
+		"/Users/alisafaya/Desktop/vtysproje/DjangoProject/envi/mimission/settings.py",
+		"/Users/alisafaya/Desktop/vtysproje/vtysSite/mimission/urls.py",
+		"/Users/alisafaya/Desktop/vtysproje/vtysSite/mimission/views.py",
+		"/Users/alisafaya/Desktop/vtysproje/vtysSite/vtysSite/urls.py",
+		"/Users/alisafaya/Desktop/vtysproje/vtysSite/vtysSite/views.py",
+		"/Users/alisafaya/Desktop/drive-download-20171208T124846Z-001/space/login/views.py",
+		"/Users/alisafaya/Desktop/drive-download-20171208T124846Z-001/space/login/license.txt",
+		"/Users/alisafaya/Desktop/drive-download-20171208T124846Z-001/space/login/index.html",
+		"/Users/alisafaya/Desktop/drive-download-20171208T124846Z-001/space/login/README.txt",
+		"/Users/alisafaya/Desktop/abo_assafa-itasksproject-9bc828349151/iTasksProject/iTasksProject/Views/Account/Login.cshtml",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/Veritabani yonetim sistemleri/Odevler/odev2/Odev2B151210551AliSafaya1A.sql",
+		"/Users/alisafaya/Desktop/Casemice/INTERVIEWER/NAudio-master/NAudioDemo/RecordingDemo/RecordingPanel.cs",
+		"/Users/alisafaya/Desktop/2.odev.sql",
+		"/Users/alisafaya/Desktop/stackoverflow.sql",
+		"/Users/alisafaya/Desktop/insert2.sql",
+		"/Users/alisafaya/Downloads/Qwc0672hcxLk.sql",
+		"/Users/alisafaya/Downloads/qpuMUAswN19n.sql",
+		"/Users/alisafaya/Downloads/OXJo9f2S8PrS.sql",
+		"/Users/alisafaya/Downloads/eVf6uAEBAL7h.sql",
+		"/Users/alisafaya/Downloads/dbIxNb7pXSkR.sql",
+		"/Users/alisafaya/Downloads/cV5wg35f7OIw.sql",
+		"/Users/alisafaya/Downloads/XlzWFTIFONT3.sql",
+		"/Users/alisafaya/Downloads/QSXFxHjRrvex.sql",
+		"/Users/alisafaya/Downloads/XkcalTWx1nOG.sql",
+		"/Users/alisafaya/Downloads/M0HvQIklqIo2.sql",
+		"/Users/alisafaya/Downloads/4tSrb8GlX51l.sql",
+		"/Users/alisafaya/Desktop/vtysproje/Veritabanı model/taslak.sql",
+		"/Users/alisafaya/Desktop/ulkeandsehir.sql",
+		"/Users/alisafaya/Desktop/0qk4Sa8LIOMo.sql",
+		"/Users/alisafaya/Desktop/levelPoints.py",
+		"/Users/alisafaya/Desktop/Casemice/readfile.py",
+		"/Users/alisafaya/Desktop/brwYZ3kFmpmZ.sql",
+		"/Users/alisafaya/Desktop/taslak.sql",
+		"/Users/alisafaya/Downloads/0DnT7OfVVoIm.sql",
+		"/Users/alisafaya/Google Drive/Documents/Ali-Safaya.pdf",
+		"/Users/alisafaya/Desktop/test.postgre.sql",
+		"/Users/alisafaya/Downloads/sra7Np4N2R8n.sql",
+		"/Users/alisafaya/Desktop/mimission.csv",
+		"/Users/alisafaya/Desktop/vtysproje/Veritabanı model/Mimission.sql",
+		"/Users/alisafaya/Desktop/Casemice/QuestionClassification/QuestionClassification/DataClassifier.cs",
+		"/Users/alisafaya/Desktop/Casemice/QuestionClassification/QuestionClassification/Program.cs",
+		"/Users/alisafaya/Desktop/NAudio-master/NAudioDemo/RecordingDemo/RecordingPanel.cs",
+		"/Users/alisafaya/Desktop/mmm.m3u8",
+		"/Users/alisafaya/Desktop/deneme1/include/Cikisyonlendirme.h",
+		"/Users/alisafaya/Desktop/deneme1/src/Teklikomut.c",
+		"/Users/alisafaya/Desktop/deneme1/src/quit.c",
+		"/Users/alisafaya/Desktop/deneme1/src/Girisyonlendirme.c",
+		"/Users/alisafaya/Desktop/deneme1/src/deneme1.c",
+		"/Users/alisafaya/Desktop/deneme1/src/Cikisyonlendirme.c",
+		"/Users/alisafaya/Desktop/deneme1/include/Teklikomut.h",
+		"/Users/alisafaya/Desktop/deneme1/include/quit.h",
+		"/Users/alisafaya/Desktop/deneme1/include/Girisyonlendirme.h",
+		"/Users/alisafaya/Desktop/isletimsistemleriodev/src/main.c",
+		"/Users/alisafaya/Desktop/isletimsistemleriodev/src/komut.c",
+		"/Users/alisafaya/Desktop/isletimsistemleriodev/src/rana.c",
+		"/Users/alisafaya/Desktop/isletimsistemleriodev/include/komut.h",
+		"/Users/alisafaya/Desktop/isletimsistemleriodev/main2.c",
+		"/Users/alisafaya/Desktop/Interviewer/QuestionClassification/DataClassifier.cs",
+		"/Users/alisafaya/Downloads/northwind.postgre.sql",
+		"/Volumes/PostgreSQL 9.6.6-1/README",
+		"/Users/alisafaya/Projects/isletimsistemleriodev/src/main.c",
+		"/Users/alisafaya/Desktop/pros.c",
+		"/Users/alisafaya/Desktop/proses.c",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/isletim sistemleri/proses.c",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/isletim sistemleri/processlerArasiIletisim.c",
+		"/Users/alisafaya/Desktop/Casemice/word2vec-master/word2vec.c",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/isletim sistemleri/ornek_uygulamalar/örnek uygulamalar/sem1.c",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/isletim sistemleri/ornek_uygulamalar/örnek uygulamalar/topla.c",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/isletim sistemleri/ornek_uygulamalar/örnek uygulamalar/timer.c",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/isletim sistemleri/ornek_uygulamalar/örnek uygulamalar/signal2.c",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/isletim sistemleri/ornek_uygulamalar/örnek uygulamalar/signal.c",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/isletim sistemleri/ornek_uygulamalar/örnek uygulamalar/shm.c",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/isletim sistemleri/ornek_uygulamalar/örnek uygulamalar/sem2.c",
+		"/Users/alisafaya/Desktop/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/Subs/English-forced.srt",
+		"/Users/alisafaya/Desktop/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/Subs/English_SDH.srt",
+		"/Users/alisafaya/Desktop/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/The.Martian.2015.BDRip.x264-SPARKS SDH.srt",
+		"/Users/alisafaya/Desktop/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/Subs/English.srt",
+		"/Users/alisafaya/Desktop/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/Subs/Und.srt",
+		"/Users/alisafaya/Desktop/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/Subs/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG.idx",
+		"/Users/alisafaya/Desktop/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/Subs/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG.sub",
+		"/Users/alisafaya/Desktop/The.Martian.2015.1080p.BluRay.H264.AAC-RARBG/RARBG.COM.txt",
+		"/Users/alisafaya/Desktop/processlerArasiIletisim.c",
+		"/Users/alisafaya/Desktop/thread.c",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/Veri iletisimi/mutasim/Note.txt",
+		"/Users/alisafaya/Desktop/Okul.txt",
+		"/Users/alisafaya/Desktop/The.Big.Bang.Theory.S11E02.720p.HDTV.X264-DIMENSION[rarbg]/RARBG.txt",
+		"/Users/alisafaya/Desktop/TheLegend27 - navigasyonSorusu/makefile",
+		"/Users/alisafaya/Desktop/PINPON.py",
+		"/Volumes/SSD CASEMIC/tomb/Tomb_Raider_MACOSX-MONEY/money.nfo",
+		"/Users/alisafaya/Desktop/makefile",
+		"/Users/alisafaya/Google Drive/dersler/3.dönem/Veri yapılar/Ödevler/b151210551_1. Ödev/makefile.txt",
+		"/Users/alisafaya/Google Drive/dersler/3.dönem/Veri yapılar/Ödevler/3.Ödev/makefile",
+		"/Users/alisafaya/Google Drive/dersler/4.dönem/Programlama Dillerinin Prensipleri/Odevler/3-odev/b151210551-b151210014/makefile.txt",
+		"/Users/alisafaya/Google Drive/dersler/4.dönem/Programlama Dillerinin Prensipleri/Odevler/3-odev/b151210551-b151210014/include/RastgeleKarakter.h",
+		"/Users/alisafaya/Google Drive/dersler/3.dönem/Veri yapılar/Ödevler/3.Ödev/include/NumberQueue.hpp",
+		"/Users/alisafaya/Downloads/northwind.sql",
+		"/Users/alisafaya/Downloads/Northwind.bak",
+		"/Users/alisafaya/Desktop/Okul",
+		"/Users/alisafaya/Desktop/b151210551/b151210551/b151210551/main.cpp",
+		"/Users/alisafaya/Desktop/DFA/DFA/DFA/main.cpp",
+		"/Users/alisafaya/Desktop/Volunteers list.txt",
+		"/Users/alisafaya/Desktop/conversations.txt",
+		"/Users/alisafaya/Desktop/readfile.py",
+		"/Users/alisafaya/Desktop/file.txt",
+		"/Users/alisafaya/Projects/nlp-project@casemice/conversation-simulation/target/maven-archiver/pom.properties",
+		"/Users/alisafaya/Projects/nlp-project@casemice/conversation-simulation/target/classes/data/BagOfWords.class",
+		"/Users/alisafaya/Desktop/Data.txt",
+		"/Users/alisafaya/Desktop/b151210551_1. Ödev/makefile.txt",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/Bicimsel diller ve soyut makineler/Mutasim/New Text Document.txt",
+		"/Volumes/Parallels Desktop 13.0.1 (42947)/Help.txt",
+		"/Users/alisafaya/Google Drive/dersler/3.dönem/Veri yapılar/İçerikler.txt",
+		"/Users/alisafaya/Desktop/untitled.html",
+		"/Users/alisafaya/Desktop/saunet_eduroam.mobileconfig",
+		"/Users/alisafaya/Desktop/5.semester/5.semester/formal languages and abstract machines/New Text Document.txt",
+		"/Users/alisafaya/Google Drive/dersler/3.dönem/Veri yapılar/Ödevler/b151210551_1. Ödev/makefile",
+		"/Users/alisafaya/Google Drive/dersler/5.dönem/Veri iletisimi/veri iletisimi notlar/b131210057-KareDalgaOlusumu-MuhammedBekirBedir/b131210057-KareDalgaOlusumu/KısaAçıklama.txt",
+		"/Users/alisafaya/Desktop/WindowsFormsApplication1/WindowsFormsApplication1/SquareWave.cs",
+		"/Users/alisafaya/Desktop/results.txt",
+		"/Users/alisafaya/Desktop/output.txt",
+		"/Users/alisafaya/Desktop/Doktor-Hasta konuşma örnekleri.txt",
+		"/Users/alisafaya/Desktop/Doctor-Patient Conversations samples .txt",
+		"/Users/alisafaya/Desktop/Samples.txt",
+		"/Users/alisafaya/Desktop/TextProcessing/aaa.xml",
+		"/Users/alisafaya/Desktop/TextProcessing/text"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Fore"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/mimission/settings/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/mimission/settings/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1145,
+								1145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/templates/login/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/mimission_app/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/mimission_app/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/mimission_app/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								729,
+								729
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "lib/python3.5/site-packages/django/db/models/fields/related.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31453,
+								31453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13319.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/mimission/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/templates/itasks/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2246,
+								2246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/templates/itasks/Home/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 600.0
+	},
+	"pinned_build_system": "",
+	"project": "mimission.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/word2vec-master/demo-word.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
